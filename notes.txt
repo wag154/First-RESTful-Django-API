@@ -1,0 +1,5 @@
+Django rest api 
+
+start new project inside of current directory : 'django-admin startproject [projectname] .'
+
+migration is for database 
